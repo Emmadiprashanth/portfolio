@@ -2,13 +2,16 @@
 
 
 ## Education
-_ B Tech in Computer Science 2008 (India)
-_ Masters in Computer Science 2010 (UK)
+- B Tech in Computer Science 2008 (India)
+- Masters in Computer Science 2010 (UK)
 
 
 ## Work experience 
 Devops Engineer
--big impact porject 1!
+- big impact porject 1
+- big impact porject 2
+
+
 
 
 
