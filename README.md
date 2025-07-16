@@ -2,8 +2,8 @@
 
 
 ## Education
-B Tech in Computer Science (India)
-Masters in Computer Science (UK)
+_ B Tech in Computer Science 2008 (India)
+_ Masters in Computer Science 2010 (UK)
 
 
 ## Work experience 
